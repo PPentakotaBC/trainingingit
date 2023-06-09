@@ -1,0 +1,2 @@
+git status - get status of your get repo
+git init - To initalize the git repository
